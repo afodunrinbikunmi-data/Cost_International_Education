@@ -1,4 +1,4 @@
-# Cost_International_Education
+# International Education Cost Analysis: Decoding the "Tuition Trap" and Geographic Cost Disparity
 A data-driven analysis of 622 universities across 71 countries revealing why geography and accommodation, not tuition are the primary drivers of international education costs
 
 ## Project Summary
