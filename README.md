@@ -16,6 +16,9 @@ The remaining 73% funds hidden costs that most students never plan for.**
 | Currency | All values standardised to USD |
 | Source | Cost of International Education Dataset (Kaggle) |
 
+**Period:** 2024 – 2025 Academic Year
+**Coverage:** 71 Countries across 6 Continents and 622 Accredited Universities.
+
 ## Key Columns in the Dataset
 | Column | Description |
 |---|---|
