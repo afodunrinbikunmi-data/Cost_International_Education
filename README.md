@@ -2,7 +2,7 @@
 A data-driven analysis of 622 universities across 71 countries revealing why geography and accommodation, not tuition are the primary drivers of international education costs
 
 ## Project Summary
-A comprehensive cost analysis of international higher education across 622 universities in 71 countries. The goal was to identify the true cost of studying abroad — beyond tuition fees — and determine which countries, cities, and degree levels offer the best financial value for international students.
+A comprehensive cost analysis of international higher education across 622 universities in 71 countries. The goal was to identify the true cost of studying abroad beyond tuition fees and determine which countries, cities, and degree levels offer the best financial value for international students.
 
 **Key finding: Only 27% of the cost of studying abroad is tuition.
 The remaining 73% funds hidden costs that most students never plan for.**
