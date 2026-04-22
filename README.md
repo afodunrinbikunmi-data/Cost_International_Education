@@ -92,3 +92,22 @@ The Power BI dashboard contains 3 report pages:
 | City Intelligence | Top 10 expensive cities, Top 10 affordable cities, full data table |
 
 ## Project Structure
+
+```text
+├── data/
+│   └── cost_of_international_education.xlsx
+├── dashboard/
+│   └── education_cost_dashboard.pbix
+├── report/
+│   └── Cost_Of_International_Education_Analysis.pptx
+├── screenshots/
+│   ├── global_overview.png
+│   ├── cost_structure.png
+│   └── city_intelligence.png
+└── README.md
+```
+
+## About me
+Afodunrinbi Samad Akinkunmi
+ Data Analyst | Excel | Power BI
+- [LinkedIn] | [Medium Article Link]
